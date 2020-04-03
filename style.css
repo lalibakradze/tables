@@ -1,0 +1,55 @@
+.table{
+    width: 900px;
+    height: 400px;
+    margin: 0 auto;
+    background-color: grey;
+}
+
+.p{
+    text-align: center;
+    font-size: 25px;
+}
+
+.height{
+   height:  70px;
+}
+
+.table2{
+    height: 600px;
+    width: 900px;
+    margin: 0 auto;
+
+}
+
+.height2{
+    height: 170px;
+}
+.width{
+    width: 200px;
+}
+.tfoot{
+    height: 30px;;
+}
+
+.height3{
+   height: 20px;
+}
+
+.table3{
+    width: 1150px;
+    height: 600px;
+    margin: 0 auto;
+}
+
+.red{
+background-color: red;
+}
+.blue{
+    background-color: blue;
+}
+.green{
+    background-color: green;
+}
+.white{
+    background-color: grey;
+}
